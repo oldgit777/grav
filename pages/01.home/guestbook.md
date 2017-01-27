@@ -19,7 +19,7 @@ content:
 # {c:red}Welcome to the Old Git diet.{/c}
 ## A diet that lets you eat good food and enjoy life
 
-Congratulations! You have installed the **Base Grav Package** that provides a **simple page** and the default **antimatter** theme to get you started.
+Congratulations!  
 
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
