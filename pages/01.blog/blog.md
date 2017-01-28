@@ -19,7 +19,7 @@ content:
     url_taxonomy_filters: true
 blog_url: blog
 feed:
-    description: 'Sample Blog Description'
+    description: 'Old Git Diet - Lifestyle Blog'
     limit: 10
 pagination: true
 ---
