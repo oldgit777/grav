@@ -24,6 +24,5 @@ feed:
 pagination: true
 ---
 
-![](poppies.jpg)
 # Lifestyle Blog
 ## Enjoying life, eating well, keeping fit and trying to smile through it all ...
