@@ -1,26 +1,28 @@
 ---
-title: Home
-blog_url: blog
-body_classes: header-image fullwidth
-
+title: Blog
 sitemap:
     changefreq: monthly
-    priority: 1.03
-
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    target: _blank
+    mode: active
+body_classes: 'header-image fullwidth'
 content:
-    items: @self.children
+    items: '@self.children'
+    limit: 5
     order:
         by: date
         dir: desc
-    limit: 5
     pagination: true
-
+    url_taxonomy_filters: true
+blog_url: blog
 feed:
-    description: Sample Blog Description
+    description: 'Sample Blog Description'
     limit: 10
-
 pagination: true
 ---
 
-# My Gravtastic Blog
-## A tale of **awesomazing** adventures
+# Lifestyle Blog
+## Enjoying life, eating well, keeping fit and trying to smile through it all ...
