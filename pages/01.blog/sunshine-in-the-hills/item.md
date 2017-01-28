@@ -9,7 +9,7 @@ taxonomy:
         - journal
 external_links:
     process: true
-    title: false
+    title: true
     no_follow: true
     target: _blank
     mode: active
