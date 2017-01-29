@@ -21,7 +21,8 @@ The Mediterranean was alive with light from the bright winter's sun.
 ![](DSC_0304.jpg)
 
 The area is beautifully planted.
-This small bird was hopping through the Aloe Vera.
+This small bird was hopping through the succulents.
+I think it might be a Willow Warbler.
 
 ![](DSC_0306.jpg)
 
