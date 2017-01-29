@@ -6,6 +6,7 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
+body_classes: 'header-image fullwidth'
 content:
     items: '@self.children'
     limit: '5'
