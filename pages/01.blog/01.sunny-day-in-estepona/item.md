@@ -17,6 +17,7 @@ A walk along the promenade
 ![](DSC_0302.jpg)
 
 The Mediterranean was alive with light from the bright winter's sun.
+The mountains of Morocco in the background.
 
 ![](DSC_0304.jpg)
 
