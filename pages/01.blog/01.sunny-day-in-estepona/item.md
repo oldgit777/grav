@@ -6,6 +6,7 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
+dateformat: 'd-m-Y H:i'
 ---
 
 Wonderful late January day in Estepona on Spain's Costa del Sol.
