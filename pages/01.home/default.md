@@ -19,7 +19,7 @@ content:
 # {c:red}Welcome to the Old Git diet.{/c}
 ## A diet that lets you eat good food and enjoy life
 
-Congratulations!  
+Congratulations!  You found us. We need your help and perhaps we can help you.
 
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
