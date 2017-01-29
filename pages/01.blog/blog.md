@@ -10,11 +10,11 @@ external_links:
     mode: active
 body_classes: 'header-image fullwidth'
 content:
-    items: '@self.modular'
+    items: '@self.item'
+    limit: 5
     order:
         by: date
         dir: desc
-    limit: 5
     pagination: true
     url_taxonomy_filters: true
 blog_url: blog
