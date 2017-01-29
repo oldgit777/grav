@@ -11,12 +11,12 @@ external_links:
 body_classes: 'header-image fullwidth'
 content:
     items: '@self.modular'
+    limit: '5'
     order:
         by: date
         dir: desc
-    limit: 5
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 blog_url: blog
 feed:
     description: 'Old Git Diet - Lifestyle Blog'
