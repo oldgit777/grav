@@ -10,7 +10,7 @@ external_links:
     mode: active
 body_classes: 'header-image fullwidth'
 content:
-    items: '@self.item'
+    items: '@self.default'
     limit: 5
     order:
         by: date
