@@ -1,5 +1,14 @@
 ---
 title: 'Sunny Day in Estepona'
+date: '17-01-2017 12:25'
+metadata:
+    - estepona
+    - andalucia
+taxonomy:
+    tag:
+        - photography
+        - andalucia
+        - estepona
 external_links:
     process: true
     title: false
