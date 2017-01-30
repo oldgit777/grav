@@ -5,6 +5,8 @@ metadata:
     - estepona
     - andalucia
 taxonomy:
+    category:
+        - blog
     tag:
         - photography
         - andalucia
