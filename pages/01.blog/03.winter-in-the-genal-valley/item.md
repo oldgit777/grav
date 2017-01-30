@@ -6,6 +6,8 @@ metadata:
     - Andalucia
     - Spain
 taxonomy:
+    category:
+        - blog
     tag:
         - photography
         - andalucia
