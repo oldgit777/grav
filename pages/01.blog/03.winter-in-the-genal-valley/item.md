@@ -1,5 +1,15 @@
 ---
 title: 'Winter in the Genal Valley'
+date: '19-01-2017 12:20'
+metadata:
+    - 'Genal Valley'
+    - Andalucia
+    - Spain
+taxonomy:
+    tag:
+        - photography
+        - andalucia
+        - 'genal valley'
 external_links:
     process: true
     title: false
@@ -7,6 +17,8 @@ external_links:
     target: _blank
     mode: active
 header_image: '1'
+summary:
+    format: short
 ---
 
 Just days after enjoying the sunshine on the Costa Del Sol. 
