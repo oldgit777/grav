@@ -6,6 +6,7 @@ external_links:
     no_follow: true
     target: _blank
     mode: active
+header_image: '0'
 ---
 
 Just days after enjoying the sunshine on the Costa Del Sol. 
