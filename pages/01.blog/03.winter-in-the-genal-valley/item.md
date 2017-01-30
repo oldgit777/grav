@@ -45,6 +45,10 @@ A scene from a Christmas card?
 
 ![](DSC_0336.jpg)
 
+A lovely mare. She's called Reina. Which translates to Queen.
+
 ![](DSC_0351.jpg)
+
+She spotted me. 
 
 ![](DSC_0352.jpg)
