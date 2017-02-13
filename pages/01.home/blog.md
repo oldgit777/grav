@@ -1,25 +1,26 @@
 ---
 title: Home
-content:
-    items: '@self.modular'
-    order:
-        by: date
-        dir: desc
-    limit: '5'
-    pagination: '1'
-    url_taxonomy_filters: '1'
 external_links:
     process: true
     title: false
     no_follow: true
     target: _blank
     mode: active
+body_classes: 'header-image fullwidth'
+content:
+    items: '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
 # {c:red}Welcome to the Old Git diet.{/c}
 ## A diet that lets you eat good food and enjoy life
 
-Congratulations!  You found us. We need your help and perhaps we can help you.
+Congratulations!  
 
 !!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
