@@ -1,11 +1,5 @@
 ---
 title: Home
-external_links:
-    process: true
-    title: false
-    no_follow: true
-    target: _blank
-    mode: active
 body_classes: 'header-image fullwidth'
 content:
     items: '@self.children'
@@ -15,6 +9,12 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+external_links:
+    process: true
+    title: false
+    no_follow: true
+    target: _blank
+    mode: active
 ---
 
 # {c:red}Welcome to the Old Git diet.{/c}
@@ -22,7 +22,7 @@ content:
 
 Congratulations!  
 
-!!! If you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
+!!! <i class="fa fa-bookmark"></i> you want a more **full-featured** base install, you should check out [**Skeleton** packages available in the downloads](http://getgrav.org/downloads).
 
 ### Find out all about Grav
 
